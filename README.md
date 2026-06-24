@@ -2,7 +2,9 @@
 
 ## Pembuat
 Nama: Maman Mulyana
+
 NIM: 25416255201221
+
 Mata Kuliah: Struktur Data
 
 Program registrasi event lari KujangRun 2026. 
