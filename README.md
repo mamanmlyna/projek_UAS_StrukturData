@@ -50,6 +50,10 @@ Program registrasi event lari KujangRun 2026.
 2. Buka terminal di folder itu
 3. Ketik: `python kujangrun.py`
 
+## Flocwchart Sistem Registasi Kujangrun
+![alt text](?raw=true)
+
+
 ## Aturan Kategori & Umur
 - 5K  : Umur 10-100 tahun, kapasitas 8000
 - 10K : Umur >= 18 tahun, kapasitas 5000. >60 disarankan 5K 
