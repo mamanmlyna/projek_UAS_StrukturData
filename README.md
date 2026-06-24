@@ -51,7 +51,7 @@ Program registrasi event lari KujangRun 2026.
 3. Ketik: `python kujangrun.py`
 
 ## Flocwchart Sistem Registasi Kujangrun
-![alt text](?raw=true)
+![alt text](https://github.com/mamanmlyna/projek_UAS_StrukturData/blob/main/FLOWCHART%20SISTEM%20REGISTRASI%202026-06-24%20at%2018.31.09.jpeg?raw=true)
 
 
 ## Aturan Kategori & Umur
